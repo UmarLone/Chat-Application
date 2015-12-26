@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="AzureCloudService" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="4" osVersion="*" schemaVersion="2015-04.2.6">
+  <Role name="WCFServiceWebRoleOpenChatApp">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=casastorage;AccountKey=GL7he0bzD/XUl4cLq/ZUwzV8BzFFO6k8+95VnS351B0sGSGeBpQ+clhBWKlwnJ+fdpk1wlMvKpnVd6TF2Too1w==" />
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>

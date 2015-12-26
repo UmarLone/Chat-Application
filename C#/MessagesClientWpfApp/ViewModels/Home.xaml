@@ -1,0 +1,230 @@
+﻿<Window x:Class="MessagesClientWpfApp.ViewModels.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:common="using:MessagesClientWpfApp.Common"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Width="760"
+        Height="555"
+        Icon="/MessagesClientWpfApp;component/Common/h.png"
+        Loaded="Window_Loaded"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d">
+
+    <Window.Resources>
+
+        <!--
+            <models:UserModel x:Key="userModel" />
+            <models:MessageModel x:Key="messageModel" />
+            <data:AllUsersData x:Key="allUsersData" />
+            <data:AllReceivedMessagesData x:Key="allReceivedMessagesData" />
+            <commands:ReceiveMyMessagesCommand x:Key="receiveMyMessagesCommand" />
+            <commands:SendMessageCommand x:Key="sendMessageCommand" />
+        -->
+
+    </Window.Resources>
+
+    <Grid Margin="0,-2,-8,2" Background="#FF11113E">
+
+        <ListView Name="listView"
+                  Width="168"
+                  Height="260"
+                  Margin="569,104,0,0"
+                  HorizontalAlignment="Left"
+                  VerticalAlignment="Top"
+                  Background="#FF292D57"
+                  BorderBrush="White"
+                  BorderThickness="2"
+                  FontSize="16"
+                  Foreground="White"
+                  ItemsSource="{Binding AllUsersData.AllUsers}"
+                  SelectedItem="{Binding AllUsersData.SelectedUser,
+                                         Mode=TwoWay}" />
+
+
+        <TextBlock Width="30"
+                   Height="27"
+                   Margin="22,15,0,0"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Top"
+                   FontSize="20"
+                   Foreground="White"
+                   RenderTransformOrigin="-1.733,0.556"
+                   Text="Hi -"
+                   TextWrapping="Wrap" />
+        <TextBlock Name="txtNameLabel"
+                   Width="161"
+                   Height="27"
+                   Margin="69,17,0,0"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Top"
+                   FontSize="20"
+                   Foreground="White"
+                   Text=""
+                   TextWrapping="Wrap" />
+
+        <TextBlock Width="181"
+                   Height="27"
+                   Margin="571,76,0,0"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Top"
+                   FontSize="20"
+                   Foreground="White"
+                   Text="People in Network"
+                   TextWrapping="Wrap" />
+
+
+
+
+
+
+
+        <!--<ListView Width="284"
+            Height="419"
+            Margin="216,50,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            BorderBrush="White"
+            BorderThickness="3"
+            Background="Transparent"
+            Padding="8"
+            ItemsSource="{Binding AllReceivedMessagesData.Msgs}">
+               <ListView Background="Transparent" ItemsSource="{Binding AllReceivedMessagesData.Messages}">-->
+        <!--  <DataTemplate>  -->
+        <Border Margin="10,81,216,167"
+                BorderBrush="White"
+                BorderThickness="2"
+                CornerRadius="20"
+                Padding="8">
+
+            <TextBox Name="upmsg"
+                     Margin="0,0,0,0"
+                     Background="#FF35317A"
+                     BorderThickness="0,0,0,0"
+                     FontSize="14"
+                     Foreground="White"
+                     Text="{Binding AllReceivedMessagesData.Msgs}"
+                     TextWrapping="Wrap" />
+
+            <!--<ListView x:Name="listView1"
+                      Margin="0,1,0,-1"
+                      Background="#FF35317A"
+                      BorderBrush="White"
+                      BorderThickness="0,0,0,0"
+                      FontSize="14"
+                      Foreground="White">
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="{x:Type ListViewItem}">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="true" />
+                        </Style.Triggers>
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <Border Background="White"
+                        BorderBrush="Black"
+                        BorderThickness="1"
+                        CornerRadius="10">
+                    <ListViewItem>
+
+                        <TextBox Background="#FF8B1A67"
+                                   Foreground="White"
+                                   Text="{Binding AllReceivedMessagesData.Msgs}" />
+
+
+                    </ListViewItem>
+                </Border>
+                <Border Background="White"
+                        BorderBrush="Black"
+                        BorderThickness="1"
+                        CornerRadius="10">
+                    <ListViewItem>
+
+                        <TextBox Name="upmsg"
+                                   Background="#FF8B1A67"
+                                   Foreground="White" />
+
+
+                    </ListViewItem>
+                </Border>
+            </ListView>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </Border>
+        <!--
+            </DataTemplate>
+            </ListView>
+        -->
+        <!--  </ListView>  -->
+
+        <TextBox Name="textBoxContent"
+                 Width="348"
+                 Height="90"
+                 Margin="13,390,0,0"
+                 HorizontalAlignment="Left"
+                 VerticalAlignment="Top"
+                 Background="#FF16165D"
+                 BorderThickness="3"
+                 FontSize="14"
+                 Foreground="White"
+                 Text="{Binding MessageModel.Content,
+                                Mode=TwoWay}"
+                 TextWrapping="Wrap" />
+        <Button Width="90"
+                Height="90"
+                Margin="366,390,0,0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Background="#FF2D6E4D"
+                BorderBrush="White"
+                BorderThickness="2"
+                Click="Meclick_Click"
+                Command="{Binding SendMessageCommand}"
+                CommandParameter="{Binding}"
+                Content="Send"
+                FontSize="20"
+                Foreground="White" />
+        <ProgressBar Width="798"
+                     Height="5"
+                     HorizontalAlignment="Left"
+                     VerticalAlignment="Top"
+                     Background="Transparent"
+                     Foreground="White"
+                     IsIndeterminate="True"
+                     Visibility="{Binding IsDoingBackgroundWork,
+                                          Mode=TwoWay}" />
+        <Button Width="75"
+                Margin="645,14,0,0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Click="Button_Click_1"
+                Content="Logout" />
+        <Image Name="proImage"
+               Width="84"
+               Height="62"
+               Margin="247,10,0,0"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top" />
+        <Image Name="NewProImage"
+               Width="100"
+               Height="72"
+               Margin="274,9,0,0"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top" />
+
+
+
+    </Grid>
+</Window>

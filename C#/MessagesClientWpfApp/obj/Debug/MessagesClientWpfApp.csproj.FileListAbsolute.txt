@@ -1,0 +1,102 @@
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.csprojResolveAssemblyReference.cache
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\obj\Debug\ViewModels\Home.baml
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\obj\Debug\ViewModels\SignUp.baml
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\obj\Debug\ViewModels\Home.g.cs
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\obj\Debug\ViewModels\SignUp.g.cs
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\obj\Debug\App.g.cs
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp_MarkupCompile.cache
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.g.resources
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.Properties.Resources.resources
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.csproj.GenerateResource.Cache
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.exe.config
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.exe
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.pdb
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.exe
+c:\users\houssem dellai\documents\visual studio 2012\Projects\OpenChatApp\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.pdb
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.exe.config
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.exe
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.pdb
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Home.baml
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\ViewModels\SignUp.baml
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Home.g.cs
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\ViewModels\SignUp.g.cs
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\App.g.cs
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp_MarkupCompile.cache
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.g.resources
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.Properties.Resources.resources
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.csproj.GenerateResource.Cache
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.exe
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.pdb
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\Window1.baml
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\Window1.g.cs
+C:\Users\RAJ\Downloads\Open Chat App\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.csprojResolveAssemblyReference.cache
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.exe.config
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.exe
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.pdb
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.exe.manifest
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.application
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.exe
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.pdb
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\bin\Debug\WpfAnimatedGif.dll
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\bin\Debug\WpfAnimatedGif.xml
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Home.baml
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\ViewModels\SignUp.baml
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Home.g.cs
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\ViewModels\SignUp.g.cs
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\App.g.cs
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp_MarkupCompile.cache
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.g.resources
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.Properties.Resources.resources
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.csproj.GenerateResource.Cache
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.exe.manifest
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.application
+C:\Users\RAJ\Desktop\Chat\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.csprojResolveAssemblyReference.cache
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.exe.config
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.exe.manifest
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.application
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.exe
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.pdb
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\bin\Debug\WpfAnimatedGif.dll
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\bin\Debug\WpfAnimatedGif.xml
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Choosepic.baml
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Register.baml
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Home.baml
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\ViewModels\SignUp.baml
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Choosepic.g.cs
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Register.g.cs
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Home.g.cs
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\ViewModels\SignUp.g.cs
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\App.g.cs
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp_MarkupCompile.cache
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.g.resources
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.Properties.Resources.resources
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.csproj.GenerateResource.Cache
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.exe.manifest
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.application
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.exe
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.pdb
+C:\Users\RAJ\Desktop\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.csprojResolveAssemblyReference.cache
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.exe.config
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.exe
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.pdb
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.exe.manifest
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.application
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.exe
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\bin\Debug\MessagesClientWpfApp.pdb
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\bin\Debug\WpfAnimatedGif.dll
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\bin\Debug\WpfAnimatedGif.xml
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Choosepic.baml
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Register.baml
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Home.baml
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\ViewModels\SignUp.baml
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Choosepic.g.cs
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Register.g.cs
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\ViewModels\Home.g.cs
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\ViewModels\SignUp.g.cs
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\App.g.cs
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp_MarkupCompile.cache
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.g.resources
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.Properties.Resources.resources
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.csproj.GenerateResource.Cache
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.exe.manifest
+C:\Users\RAJ\Desktop\Projects\C#\MessagesClientWpfApp\obj\Debug\MessagesClientWpfApp.application

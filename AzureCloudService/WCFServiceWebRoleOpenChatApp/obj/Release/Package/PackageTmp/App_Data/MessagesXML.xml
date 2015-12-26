@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<messages>
+  <message>
+    <sender>umar</sender>
+    <destiny>raj</destiny>
+    <date>14/08/2015 15:50:41</date>
+    <content>hello</content>
+  </message>
+  <message>
+    <sender>raj</sender>
+    <destiny>umar</destiny>
+    <date>14/08/2015 15:54:35</date>
+    <content>hi</content>
+  </message>
+  <message>
+    <sender>raj</sender>
+    <destiny>umar</destiny>
+    <date>14/08/2015 15:54:50</date>
+    <content>You will get it</content>
+  </message>
+</messages>
